@@ -37,7 +37,7 @@ I am deepening my expertise in decentralized architectures, smart contracts, and
 - **Supply Chain Blockchain:** A transparent tracking dashboard for creating and transferring digital product assets, enabling real-time fetching of product history and ownership data.
   *Stack: React.js, Ethers.js, Solidity.*
 
-- **IEEE NSUT Student Branch Website:** The official, responsive student branch platform built to provide resources and facilitate collaboration for the executive committee and members.
+- **IEEE NSUT Student Branch Website:** Collaborated with the executive committee to develop and maintain the official, responsive student branch platform, providing resources and facilitating collaboration for members.
   *Stack: React.js, Node.js, Tailwind CSS.*
 
 ---
