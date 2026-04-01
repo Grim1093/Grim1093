@@ -10,8 +10,11 @@ I am deepening my expertise in decentralized architectures, smart contracts, and
 ## 📊 Dynamic GitHub Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grim1093&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=prs_merged)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grim1093&layout=compact&theme=dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grim1093&theme=dark)
+
 
 ---
 
